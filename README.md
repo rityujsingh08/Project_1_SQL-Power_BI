@@ -4,7 +4,7 @@ Welcome to an industry-style data analytics project designed to give you real co
 
 ### 🚀 About the Project
 
-AtliQ Hardware, a computer hardware supplier in India, is facing challenges in tracking and analyzing sales data across regions. Sales Director needs a better way to gain actionable insights without relying on verbal updates or scattered Excel files.
+Problem Statement:- AtliQ Hardware, a computer hardware supplier in India, is facing challenges in tracking and analyzing sales data across regions. Sales Director needs a better way to gain actionable insights without relying on verbal updates or scattered Excel files.
 
 This project simulates a real-world scenario where data analysts are brought in to solve this problem.
 
